@@ -1,0 +1,15 @@
+﻿  gra.cpp
+c:\users\stachu\moje programowanie\c++\informatyka 3 i in\gra\gra\gra.h(133): warning C4244: "=": konwersja z "const float" do "int", możliwa utrata danych
+gra.cpp(28): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(1334): note: zobacz deklarację „itoa”
+gra.cpp(669): warning C4244: "argument": konwersja z "::size_t" do "float", możliwa utrata danych
+gra.cpp(666): warning C4996: 'sf::Text::setColor': został uznany za przestarzały
+  C:\Program Files\SFML-2.5.0\include\SFML/Graphics/Text.hpp(210): note: zobacz deklarację „sf::Text::setColor”
+gra.cpp(687): warning C4996: 'sf::Text::setColor': został uznany za przestarzały
+  C:\Program Files\SFML-2.5.0\include\SFML/Graphics/Text.hpp(210): note: zobacz deklarację „sf::Text::setColor”
+gra.cpp(710): warning C4996: 'sf::Text::setColor': został uznany za przestarzały
+  C:\Program Files\SFML-2.5.0\include\SFML/Graphics/Text.hpp(210): note: zobacz deklarację „sf::Text::setColor”
+  main.cpp
+c:\users\stachu\moje programowanie\c++\informatyka 3 i in\gra\gra\gra.h(133): warning C4244: "=": konwersja z "const float" do "int", możliwa utrata danych
+sfml-graphics-s.lib(Image.cpp.obj) : error LNK2001: nierozpoznany symbol zewnętrzny ___std_swap_ranges_trivially_swappable_noalias
+C:\Users\Stachu\Moje programowanie\C++\informatyka 3 i in\gra\Release\gra.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
